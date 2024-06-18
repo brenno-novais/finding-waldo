@@ -5,9 +5,8 @@ EP de processamento para disciplina de Computação Gráfica. O objetivo é enco
 
 1. Instalar o [Python (3.10.0)](https://www.python.org/downloads/release/python-3100/)
 2. Clonar este repositório
-3. Criar um virtual environment
-   Digite, no prompt de comando, na pasta onde você clonou o repositório: <code>pipenv install</code>
-4. Instale o Jupyter Labe digitando no prompt:  <code>pip install jupyterlab</code>
+3. Criar um virtual environment. Para isso, digite no prompt de comando, na pasta onde você clonou o repositório: <code>pipenv install</code>
+4. Instale o Jupyter Lab digitando no prompt:  <code>pip install jupyterlab</code>
 5. Após isso, ative o venv, digitando: <code>pipenv shell</code>
    Necessário toda vez que for usar o setup
 6. Digite no prompt <code>jupyter-lab</code> para iniciar
