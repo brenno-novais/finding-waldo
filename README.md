@@ -20,7 +20,7 @@ EP de processamento para disciplina de Computação Gráfica. O objetivo é enco
 - Aplicar Transformada de Hough para círculos na tentativa de encontrar os óculos do Waldo;
 - Filtrar círculos que formam pares e estão alinhados horizontalmente;
 - Criar versão preto e branco da imagem;
-- Verificar que acima do par de círculos há pixels pretos (seria a testa do Waldo);
-- Verificar que acima da suposta testa há pixels brancos (seria o cabelo do Waldo);
+- Verificar que acima do par de círculos há pixels pretos na imagem preto e branco (seria a testa do Waldo);
+- Verificar que acima da suposta testa há pixels brancos na imagem preto e branco (seria o cabelo do Waldo);
 - Par de círculos que tiver a maior proporção de pixels pretos e brancos na área definida é o Waldo.
 - Torna a imagem mais escura ao redor de tudo que não identificamos como o Waldo.
